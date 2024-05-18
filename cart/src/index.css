@@ -1,0 +1,35 @@
+#login{
+  height:630px;
+  display:flex;
+  align-items: center;
+
+}
+#logn h2 {
+  text-align: center;
+}
+
+#header{
+  background-color: blue;
+  padding:15px 0px;
+
+}
+
+#header button{
+  float:right;
+}
+
+#header h4{
+  color:white;
+}
+
+#footer{
+  background-color: blue;
+  padding: 10px 0px;
+}
+#footer h4{
+  color: white;
+}
+
+#mid h2{
+  text-align: center;
+}
